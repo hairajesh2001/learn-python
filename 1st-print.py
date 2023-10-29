@@ -11,3 +11,6 @@ print("Hello" + " " "future" + " " "python!")
 print('My age is ' + "25")
 
 print(1, 2, 3, 4, sep='#', end='&')
+
+
+#sep is seperating string using , deliminator
