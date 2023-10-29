@@ -2,6 +2,9 @@
 Learning Python for the Datacenter Operation team 
 
 
-Python  Datatype 
+1) Which of the following is correct regarding variables in Python?
 
-string 
+Variable names cannot start with a number 
+no need to declare a datatype in the variable 
+a variable name can be started with _underscore
+
