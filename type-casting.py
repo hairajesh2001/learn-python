@@ -8,3 +8,12 @@ age =input("My age is: " )
 print(age)
 
 print( int(age) + 10)
+
+
+inputString = input('Enter a string: ')
+print(inputString, sep='#', end='&')
+
+
+
+
+
